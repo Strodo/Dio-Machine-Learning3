@@ -1,1 +1,33 @@
 Laboratorio 3 da DIO IA-900
+
+{
+    "documents": [
+        {
+            "id": "id__4940",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.08,
+                "neutral": 0.37,
+                "negative": 0.55
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.37,
+                        "negative": 0.55
+                    },
+                    "offset": 0,
+                    "length": 73,
+                    "text": "Paula Recebeu 13 SEI só nessa manhã, logo ela tem muito trabalho a fazer.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
